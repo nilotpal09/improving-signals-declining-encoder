@@ -1,0 +1,148 @@
+run,run_folder,group,condition,objective,width,epochs,n_checkpoints,readability_decline,onset,probe_cache,batch
+rigb_lejp_p1s100_p384_1,rigb_lejp_p1s100_p384_1xxxn0r0i0,A,Gaussian mu=0,LeJEPA,384,300,38,1,50,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_2,rigb_lejp_p1s100_p384_2xxxa8r220,A,Gaussian mu=0,LeJEPA,384,300,38,1,130,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_3,rigb_lejp_p1s100_p384_3xxxtri4tj,A,Gaussian mu=0,LeJEPA,384,300,38,1,70,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_4,rigb_lejp_p1s100_p384_4xxxfzayso,A,Gaussian mu=0,LeJEPA,384,300,38,1,140,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_5,rigb_lejp_p1s100_p384_5xxx0nkh7l,A,Gaussian mu=0,LeJEPA,384,300,38,1,60,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_6,rigb_lejp_p1s100_p384_6xxxsouj5i,A,Gaussian mu=0,LeJEPA,384,300,38,1,70,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_7,rigb_lejp_p1s100_p384_7xxxaugp9d,A,Gaussian mu=0,LeJEPA,384,300,38,1,60,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_8,rigb_lejp_p1s100_p384_8xxxhnksdj,A,Gaussian mu=0,LeJEPA,384,300,38,1,50,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_9,rigb_lejp_p1s100_p384_9xxx0kdy0n,A,Gaussian mu=0,LeJEPA,384,300,38,1,120,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_10,rigb_lejp_p1s100_p384_10xxxokyi6,A,Gaussian mu=0,LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_4,rigb_lejp_p1s100_nano_4xxxdxsd16,B,Gaussian mu=0,LeJEPA,2048,300,38,1,60,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_5,rigb_lejp_p1s100_nano_5xxxinhi66,B,Gaussian mu=0,LeJEPA,2048,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_6,rigb_lejp_p1s100_nano_6xxxkp0kia,B,Gaussian mu=0,LeJEPA,2048,300,38,1,60,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_7,rigb_lejp_p1s100_nano_7xxx44aysn,B,Gaussian mu=0,LeJEPA,2048,300,38,1,160,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_8,rigb_lejp_p1s100_nano_8xxxlmauwn,B,Gaussian mu=0,LeJEPA,2048,300,38,1,110,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_9,rigb_lejp_p1s100_nano_9xxx3vta8l,B,Gaussian mu=0,LeJEPA,2048,300,38,1,120,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_long_nano_1,rigb_lejp_p1s100_long_nano_1xxx6,B,Gaussian mu=0,LeJEPA,2048,300,38,1,150,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_10,rigb_lejp_p1s100_nano_10xxx6et2i,B,Gaussian mu=0,LeJEPA,2048,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_nano_11,rigb_lejp_p1s100_nano_11xxxqv96o,B,Gaussian mu=0,LeJEPA,2048,300,38,1,90,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_nano_12,rigb_lejp_p1s100_nano_12xxxxxh3b,B,Gaussian mu=0,LeJEPA,2048,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_nano_1,rigb_lejp_p1s100_nano_1xxx2i533m,B150,"Gaussian mu=0, stopped at 150",LeJEPA,2048,150,23,1,80,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_2,rigb_lejp_p1s100_nano_2xxxj7e3qp,B150,"Gaussian mu=0, stopped at 150",LeJEPA,2048,150,23,1,110,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_nano_3,rigb_lejp_p1s100_nano_3xxx28u6nl,B150,"Gaussian mu=0, stopped at 150",LeJEPA,2048,150,23,1,100,rig_P1_Enar_S100.pt,first 131
+rigd_lejp_p1s100_mu04_p384_1,rigd_lejp_p1s100_mu04_p384_1xxxe,C,Mixture mu=0.4,LeJEPA,384,300,38,1,60,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_p384_2,rigd_lejp_p1s100_mu04_p384_2xxxv,C,Mixture mu=0.4,LeJEPA,384,300,38,1,70,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_p384_3,rigd_lejp_p1s100_mu04_p384_3xxxp,C,Mixture mu=0.4,LeJEPA,384,300,38,1,80,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_p384_4,rigd_lejp_p1s100_mu04_p384_4xxxq,C,Mixture mu=0.4,LeJEPA,384,300,38,1,180,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_p384_5,rigd_lejp_p1s100_mu04_p384_5xxxu,C,Mixture mu=0.4,LeJEPA,384,300,38,1,70,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_p384_6,rigd_lejp_p1s100_mu04_p384_6xxxo,C,Mixture mu=0.4,LeJEPA,384,300,38,1,100,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_nano_1,rigd_lejp_p1s100_mu04_nano_1xxxa,D,Mixture mu=0.4,LeJEPA,2048,300,38,0,,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_nano_2,rigd_lejp_p1s100_mu04_nano_2xxxa,D,Mixture mu=0.4,LeJEPA,2048,300,38,0,,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_nano_3,rigd_lejp_p1s100_mu04_nano_3xxx1,D,Mixture mu=0.4,LeJEPA,2048,300,38,1,100,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_nano_4,rigd_lejp_p1s100_mu04_nano_4xxxt,D,Mixture mu=0.4,LeJEPA,2048,300,38,0,,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_nano_5,rigd_lejp_p1s100_mu04_nano_5xxxu,D,Mixture mu=0.4,LeJEPA,2048,300,38,0,,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu04_nano_6,rigd_lejp_p1s100_mu04_nano_6xxxu,D,Mixture mu=0.4,LeJEPA,2048,300,38,1,70,rigd_p1s100_mu04.pt,first 131
+rigd_lejp_p1s100_mu07_p384_1,rigd_lejp_p1s100_mu07_p384_1xxxv,E,Mixture mu=0.7,LeJEPA,384,300,38,1,80,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_p384_2,rigd_lejp_p1s100_mu07_p384_2xxxa,E,Mixture mu=0.7,LeJEPA,384,300,38,0,,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_p384_3,rigd_lejp_p1s100_mu07_p384_3xxx9,E,Mixture mu=0.7,LeJEPA,384,300,38,1,80,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_p384_4,rigd_lejp_p1s100_mu07_p384_4xxxr,E,Mixture mu=0.7,LeJEPA,384,300,38,1,90,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_p384_5,rigd_lejp_p1s100_mu07_p384_5xxx1,E,Mixture mu=0.7,LeJEPA,384,300,38,1,80,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_p384_6,rigd_lejp_p1s100_mu07_p384_6xxxh,E,Mixture mu=0.7,LeJEPA,384,300,38,1,80,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_nano_1,rigd_lejp_p1s100_mu07_nano_1xxx0,F,Mixture mu=0.7,LeJEPA,2048,300,38,1,140,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_nano_2,rigd_lejp_p1s100_mu07_nano_2xxxc,F,Mixture mu=0.7,LeJEPA,2048,300,38,1,120,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_nano_3,rigd_lejp_p1s100_mu07_nano_3xxx2,F,Mixture mu=0.7,LeJEPA,2048,300,38,0,,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_nano_4,rigd_lejp_p1s100_mu07_nano_4xxx1,F,Mixture mu=0.7,LeJEPA,2048,300,38,1,60,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_nano_5,rigd_lejp_p1s100_mu07_nano_5xxxw,F,Mixture mu=0.7,LeJEPA,2048,300,38,1,110,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu07_nano_6,rigd_lejp_p1s100_mu07_nano_6xxxo,F,Mixture mu=0.7,LeJEPA,2048,300,38,1,50,rigd_p1s100_mu07.pt,first 131
+rigd_lejp_p1s100_mu09_p384_1,rigd_lejp_p1s100_mu09_p384_1xxx4,G,Mixture mu=0.9,LeJEPA,384,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_2,rigd_lejp_p1s100_mu09_p384_2xxxk,G,Mixture mu=0.9,LeJEPA,384,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_3,rigd_lejp_p1s100_mu09_p384_3xxxl,G,Mixture mu=0.9,LeJEPA,384,300,38,1,130,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_4,rigd_lejp_p1s100_mu09_p384_4xxxw,G,Mixture mu=0.9,LeJEPA,384,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_5,rigd_lejp_p1s100_mu09_p384_5xxxm,G,Mixture mu=0.9,LeJEPA,384,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_6,rigd_lejp_p1s100_mu09_p384_6xxxk,G,Mixture mu=0.9,LeJEPA,384,300,38,1,60,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_nano_1,rigd_lejp_p1s100_mu09_nano_1xxx2,H,Mixture mu=0.9,LeJEPA,2048,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_nano_2,rigd_lejp_p1s100_mu09_nano_2xxx0,H,Mixture mu=0.9,LeJEPA,2048,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_nano_3,rigd_lejp_p1s100_mu09_nano_3xxxj,H,Mixture mu=0.9,LeJEPA,2048,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_nano_4,rigd_lejp_p1s100_mu09_nano_4xxxy,H,Mixture mu=0.9,LeJEPA,2048,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_nano_5,rigd_lejp_p1s100_mu09_nano_5xxx7,H,Mixture mu=0.9,LeJEPA,2048,300,38,0,,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_nano_6,rigd_lejp_p1s100_mu09_nano_6xxx4,H,Mixture mu=0.9,LeJEPA,2048,300,38,1,120,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu097_p384_1,rigd_lejp_p1s100_mu097_p384_1xxx,I,Mixture mu=0.97,LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_2,rigd_lejp_p1s100_mu097_p384_2xxx,I,Mixture mu=0.97,LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_3,rigd_lejp_p1s100_mu097_p384_3xxx,I,Mixture mu=0.97,LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_4,rigd_lejp_p1s100_mu097_p384_4xxx,I,Mixture mu=0.97,LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_5,rigd_lejp_p1s100_mu097_p384_5xxx,I,Mixture mu=0.97,LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_p384_6,rigd_lejp_p1s100_mu097_p384_6xxx,I,Mixture mu=0.97,LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_long_nano_1,rigd_lejp_p1s100_mu097_long_nano_1xxx,J,Mixture mu=0.97,LeJEPA,2048,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_nano_4,rigd_lejp_p1s100_mu097_nano_4xxx,J,Mixture mu=0.97,LeJEPA,2048,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_nano_5,rigd_lejp_p1s100_mu097_nano_5xxx,J,Mixture mu=0.97,LeJEPA,2048,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_nano_6,rigd_lejp_p1s100_mu097_nano_6xxx,J,Mixture mu=0.97,LeJEPA,2048,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_nano_7,rigd_lejp_p1s100_mu097_nano_7xxx,J,Mixture mu=0.97,LeJEPA,2048,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_nano_8,rigd_lejp_p1s100_mu097_nano_8xxx,J,Mixture mu=0.97,LeJEPA,2048,300,38,0,,rigd_p1s100_mu097.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_nano_1,rigd_lejp_p1s100_mu097_nano_1xxx,J150,"Mixture mu=0.97, stopped at 150",LeJEPA,2048,150,23,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_nano_2,rigd_lejp_p1s100_mu097_nano_2xxx,J150,"Mixture mu=0.97, stopped at 150",LeJEPA,2048,150,23,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_nano_3,rigd_lejp_p1s100_mu097_nano_3xxx,J150,"Mixture mu=0.97, stopped at 150",LeJEPA,2048,150,23,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu09_p384_e1000_1,rigd_lejp_p1s100_mu09_p384_e1000_1xxx,K,"Mixture mu=0.9, cosine LR",LeJEPA,384,1000,108,1,100,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_e1000_2,rigd_lejp_p1s100_mu09_p384_e1000_2xxx,K,"Mixture mu=0.9, cosine LR",LeJEPA,384,1000,108,1,340,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_e1000_3,rigd_lejp_p1s100_mu09_p384_e1000_3xxx,K,"Mixture mu=0.9, cosine LR",LeJEPA,384,1000,108,1,260,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_e1000_constlr_1,rigd_lejp_p1s100_mu09_p384_e1000_constlr_1xxx,L,"Mixture mu=0.9, constant LR",LeJEPA,384,1000,108,1,350,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_e1000_constlr_2,rigd_lejp_p1s100_mu09_p384_e1000_constlr_2xxx,L,"Mixture mu=0.9, constant LR",LeJEPA,384,1000,108,1,230,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu09_p384_e1000_constlr_3,rigd_lejp_p1s100_mu09_p384_e1000_constlr_3xxx,L,"Mixture mu=0.9, constant LR",LeJEPA,384,1000,108,1,500,rigd_p1s100_mu09.pt,first 131
+rigd_lejp_p1s100_mu097_p384_e1000_1,rigd_lejp_p1s100_mu097_p384_e1000_1xxx,M,"Mixture mu=0.97, cosine LR",LeJEPA,384,1000,108,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_e1000_2,rigd_lejp_p1s100_mu097_p384_e1000_2xxx,M,"Mixture mu=0.97, cosine LR",LeJEPA,384,1000,108,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_e1000_3,rigd_lejp_p1s100_mu097_p384_e1000_3xxx,M,"Mixture mu=0.97, cosine LR",LeJEPA,384,1000,108,0,,rigd_p1s100_mu097.pt,first 131
+rigb_lejp_p1s100_p384_ou09_1,rigb_lejp_p1s100_p384_ou09_1xxx0,N,"Gaussian mu=0, rho=0.9",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_2,rigb_lejp_p1s100_p384_ou09_2xxxy,N,"Gaussian mu=0, rho=0.9",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_3,rigb_lejp_p1s100_p384_ou09_3xxxl,N,"Gaussian mu=0, rho=0.9",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_4,rigb_lejp_p1s100_p384_ou09_4xxxi,N,"Gaussian mu=0, rho=0.9",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_p384_ou09_5,rigb_lejp_p1s100_p384_ou09_5xxxz,N,"Gaussian mu=0, rho=0.9",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_p384_ou09_6,rigb_lejp_p1s100_p384_ou09_6xxxx,N,"Gaussian mu=0, rho=0.9",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_p384_ou05_1,rigb_lejp_p1s100_p384_ou05_1xxxe,O,"Gaussian mu=0, rho=0.5",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou05_2,rigb_lejp_p1s100_p384_ou05_2xxxj,O,"Gaussian mu=0, rho=0.5",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou05_3,rigb_lejp_p1s100_p384_ou05_3xxxw,O,"Gaussian mu=0, rho=0.5",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou05_4,rigb_lejp_p1s100_p384_ou05_4xxx6,O,"Gaussian mu=0, rho=0.5",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_p384_ou05_5,rigb_lejp_p1s100_p384_ou05_5xxxu,O,"Gaussian mu=0, rho=0.5",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigb_lejp_p1s100_p384_ou05_6,rigb_lejp_p1s100_p384_ou05_6xxxy,O,"Gaussian mu=0, rho=0.5",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,added for Figure 4
+rigd_lejp_p1s100_mu097_p384_ou09_1,rigd_lejp_p1s100_mu097_p384_ou09_1xxx,P,"Mixture mu=0.97, rho=0.9",LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_ou09_2,rigd_lejp_p1s100_mu097_p384_ou09_2xxx,P,"Mixture mu=0.97, rho=0.9",LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigd_lejp_p1s100_mu097_p384_ou09_3,rigd_lejp_p1s100_mu097_p384_ou09_3xxx,P,"Mixture mu=0.97, rho=0.9",LeJEPA,384,300,38,0,,rigd_p1s100_mu097.pt,first 131
+rigb_lejp_p1s100_p384_ou09_e1000_1,rigb_lejp_p1s100_p384_ou09_e1000_1xxx,Q,"Gaussian mu=0, rho=0.9",LeJEPA,384,1000,108,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_e1000_2,rigb_lejp_p1s100_p384_ou09_e1000_2xxx,Q,"Gaussian mu=0, rho=0.9",LeJEPA,384,1000,108,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_e1000_3,rigb_lejp_p1s100_p384_ou09_e1000_3xxx,Q,"Gaussian mu=0, rho=0.9",LeJEPA,384,1000,108,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_e1000_4,rigb_lejp_p1s100_p384_ou09_e1000_4xxx,Q,"Gaussian mu=0, rho=0.9",LeJEPA,384,1000,108,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_e1000_5,rigb_lejp_p1s100_p384_ou09_e1000_5xxx,Q,"Gaussian mu=0, rho=0.9",LeJEPA,384,1000,108,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_ou09_e1000_6,rigb_lejp_p1s100_p384_ou09_e1000_6xxx,Q,"Gaussian mu=0, rho=0.9",LeJEPA,384,1000,108,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s30_p384_1,rigb_lejp_p1s30_p384_1xxx2slptgu,N30,"Gaussian mu=0, N=30",LeJEPA,384,300,38,1,140,rig_P1_Enar_S30_tda.pt,first 131
+rigb_lejp_p1s30_p384_2,rigb_lejp_p1s30_p384_2xxxnyuicvn,N30,"Gaussian mu=0, N=30",LeJEPA,384,300,38,0,,rig_P1_Enar_S30_tda.pt,first 131
+rigb_lejp_p1s30_p384_3,rigb_lejp_p1s30_p384_3xxx5pb5meg,N30,"Gaussian mu=0, N=30",LeJEPA,384,300,38,1,110,rig_P1_Enar_S30_tda.pt,first 131
+rigb_lejp_p1s30_p384_4,rigb_lejp_p1s30_p384_4xxxeg7ngj6,N30,"Gaussian mu=0, N=30",LeJEPA,384,300,38,1,90,rig_P1_Enar_S30_tda.pt,first 131
+rigb_lejp_p1s30_p384_5,rigb_lejp_p1s30_p384_5xxx9ghm06t,N30,"Gaussian mu=0, N=30",LeJEPA,384,300,38,0,,rig_P1_Enar_S30_tda.pt,first 131
+rigb_lejp_p1s30_p384_6,rigb_lejp_p1s30_p384_6xxxb3qabc5,N30,"Gaussian mu=0, N=30",LeJEPA,384,300,38,0,,rig_P1_Enar_S30_tda.pt,first 131
+rigb_lejp_p1s300_p384_1,rigb_lejp_p1s300_p384_1xxx1644gt,N300,"Gaussian mu=0, N=300",LeJEPA,384,300,38,0,,rig_P1_Enar_S300_tda.pt,first 131
+rigb_lejp_p1s300_p384_2,rigb_lejp_p1s300_p384_2xxx6q8j25,N300,"Gaussian mu=0, N=300",LeJEPA,384,300,38,0,,rig_P1_Enar_S300_tda.pt,first 131
+rigb_lejp_p1s300_p384_3,rigb_lejp_p1s300_p384_3xxxckt0ch,N300,"Gaussian mu=0, N=300",LeJEPA,384,300,38,0,,rig_P1_Enar_S300_tda.pt,first 131
+rigb_lejp_p1s300_p384_4,rigb_lejp_p1s300_p384_4xxx0x7mm0,N300,"Gaussian mu=0, N=300",LeJEPA,384,300,38,0,,rig_P1_Enar_S300_tda.pt,first 131
+rigb_lejp_p1s300_p384_5,rigb_lejp_p1s300_p384_5xxx9z8vw0,N300,"Gaussian mu=0, N=300",LeJEPA,384,300,38,0,,rig_P1_Enar_S300_tda.pt,first 131
+rigb_lejp_p1s300_p384_6,rigb_lejp_p1s300_p384_6xxx9l8ovb,N300,"Gaussian mu=0, N=300",LeJEPA,384,300,38,0,,rig_P1_Enar_S300_tda.pt,first 131
+rigb_lejp_p1s1000_p384_1,rigb_lejp_p1s1000_p384_1xxxj0l97,N1000,"Gaussian mu=0, N=1000",LeJEPA,384,300,38,0,,rig_P1_Enar_S1000_tda.pt,first 131
+rigb_lejp_p1s1000_p384_2,rigb_lejp_p1s1000_p384_2xxxfht2g,N1000,"Gaussian mu=0, N=1000",LeJEPA,384,300,38,0,,rig_P1_Enar_S1000_tda.pt,first 131
+rigb_lejp_p1s1000_p384_3,rigb_lejp_p1s1000_p384_3xxx9m8ku,N1000,"Gaussian mu=0, N=1000",LeJEPA,384,300,38,0,,rig_P1_Enar_S1000_tda.pt,first 131
+rigb_lejp_p1s100_p384_constlr_1,rigb_lejp_p1s100_p384_constlr_1xxx,CLR,"Gaussian mu=0, constant LR",LeJEPA,384,300,38,1,60,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_constlr_2,rigb_lejp_p1s100_p384_constlr_2xxx,CLR,"Gaussian mu=0, constant LR",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_constlr_3,rigb_lejp_p1s100_p384_constlr_3xxx,CLR,"Gaussian mu=0, constant LR",LeJEPA,384,300,38,1,90,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_wd0_1,rigb_lejp_p1s100_p384_wd0_1xxxxl,WD0,"Gaussian mu=0, no weight decay",LeJEPA,384,300,38,1,70,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_wd0_2,rigb_lejp_p1s100_p384_wd0_2xxxij,WD0,"Gaussian mu=0, no weight decay",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_wd0_3,rigb_lejp_p1s100_p384_wd0_3xxxm7,WD0,"Gaussian mu=0, no weight decay",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_1,rigb_lejp_p1s100_p384_lam005_1xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_2,rigb_lejp_p1s100_p384_lam005_2xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,1,150,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_3,rigb_lejp_p1s100_p384_lam005_3xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_4,rigb_lejp_p1s100_p384_lam005_4xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_5,rigb_lejp_p1s100_p384_lam005_5xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_6,rigb_lejp_p1s100_p384_lam005_6xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,1,100,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_7,rigb_lejp_p1s100_p384_lam005_7xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_8,rigb_lejp_p1s100_p384_lam005_8xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,1,110,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_9,rigb_lejp_p1s100_p384_lam005_9xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_p384_lam005_10,rigb_lejp_p1s100_p384_lam005_10xxx,LAM,"Gaussian mu=0, lambda=0.05",LeJEPA,384,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_tiny_1,rigb_lejp_p1s100_tiny_1xxx0syrpc,TINY,"Gaussian mu=0, ViT-Tiny",LeJEPA,2048,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_lejp_p1s100_tiny_2,rigb_lejp_p1s100_tiny_2xxxlj6y8e,TINY,"Gaussian mu=0, ViT-Tiny",LeJEPA,2048,300,38,1,80,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_1,rigb_mae_p1s100_long_nano_1xxxyh,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_2,rigb_mae_p1s100_long_nano_2xxxxn,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_3,rigb_mae_p1s100_long_nano_3xxx39,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_4,rigb_mae_p1s100_long_nano_4xxxhm,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_5,rigb_mae_p1s100_long_nano_5xxxze,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_6,rigb_mae_p1s100_long_nano_6xxxjo,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_7,rigb_mae_p1s100_long_nano_7xxx6j,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_8,rigb_mae_p1s100_long_nano_8xxxw7,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_9,rigb_mae_p1s100_long_nano_9xxxmt,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131
+rigb_mae_p1s100_long_nano_10,rigb_mae_p1s100_long_nano_10xxxb,MAE,"MAE, Gaussian mu=0",MAE,,300,38,0,,rig_P1_Enar_S100.pt,first 131

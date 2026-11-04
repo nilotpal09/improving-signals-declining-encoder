@@ -1,0 +1,10 @@
+# Versions the results were produced and checked with (Python 3.11.9, CUDA 12.6).
+torch==2.6.0
+torchvision==0.21.0
+numpy==2.2.6
+scipy==1.14.0
+pyyaml==6.0.1
+matplotlib==3.9.1
+cmocean==3.0.3
+pytest==9.0.3
+# PyCaloFlash v1.0, from its upstream tag (Zenodo DOI 10.5281/zenodo.20588830)

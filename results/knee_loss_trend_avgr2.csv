@@ -1,0 +1,121 @@
+series,run,group,campaign,ref_old,n_before_old,rho_before_old,n_after_old,rho_after_old,ref_new,n_before_new,rho_before_new,n_after_new,rho_after_new
+loss,rigb_lejp_p1s100_nano_1,knee,21x,90,6,1.000000,7,1.000000,80,5,1.000000,8,0.976190
+loss,rigb_lejp_p1s100_nano_2,knee,21x,110,8,0.976190,5,1.000000,110,8,0.976190,5,1.000000
+loss,rigb_lejp_p1s100_nano_3,knee,21x,100,7,1.000000,6,1.000000,100,7,1.000000,6,1.000000
+loss,rigb_lejp_p1s100_long_nano_1,knee,21x,160,13,0.961538,15,0.996429,150,12,0.972028,16,0.997059
+loss,rigb_lejp_p1s100_nano_4,knee,21x,80,5,0.200000,23,0.947628,60,3,,25,0.959231
+loss,rigb_lejp_p1s100_nano_6,knee,21x,70,4,0.800000,24,0.958261,60,3,,25,0.963077
+loss,rigb_lejp_p1s100_nano_7,knee,21x,170,14,0.960440,14,1.000000,160,13,0.950549,15,0.996429
+loss,rigb_lejp_p1s100_nano_8,knee,21x,110,8,0.976190,20,0.980451,110,8,0.976190,20,0.980451
+loss,rigb_lejp_p1s100_nano_9,knee,21x,120,9,0.950000,19,0.992982,120,9,0.950000,19,0.992982
+loss,rigd_lejp_p1s100_mu04_nano_3,knee,21x,130,10,0.357576,18,0.997936,100,7,1.000000,21,0.998701
+loss,rigd_lejp_p1s100_mu07_nano_1,knee,21x,140,11,1.000000,17,0.997549,140,11,1.000000,17,0.997549
+loss,rigd_lejp_p1s100_mu07_nano_2,knee,21x,120,9,1.000000,19,0.991228,120,9,1.000000,19,0.991228
+loss,rigb_lejp_p1s100_nano_11,knee,21x,90,6,1.000000,22,0.958216,90,6,1.000000,22,0.958216
+loss,rigb_lejp_p1s100_p384_1,knee,4x,50,2,,26,0.731966,50,2,,26,0.731966
+loss,rigb_lejp_p1s100_p384_2,knee,4x,140,11,0.781818,17,0.992647,130,10,0.963636,18,0.993808
+loss,rigb_lejp_p1s100_p384_3,knee,4x,90,6,0.828571,22,0.988707,70,4,1.000000,24,0.991304
+loss,rigb_lejp_p1s100_p384_4,knee,4x,140,11,0.972727,17,0.987745,140,11,0.972727,17,0.987745
+loss,rigb_lejp_p1s100_p384_5,knee,4x,60,3,,25,0.993846,60,3,,25,0.993846
+loss,rigb_lejp_p1s100_p384_6,knee,4x,70,4,0.800000,24,0.995652,70,4,0.800000,24,0.995652
+loss,rigb_lejp_p1s100_p384_7,knee,4x,80,5,0.900000,23,0.962451,60,3,,25,0.966154
+loss,rigb_lejp_p1s100_p384_8,knee,4x,90,6,0.942857,22,0.972897,50,2,,26,0.983590
+loss,rigb_lejp_p1s100_p384_9,knee,4x,120,9,0.950000,19,1.000000,120,9,0.950000,19,1.000000
+loss,rigd_lejp_p1s100_mu04_p384_1,knee,4x,80,5,0.900000,23,0.981225,60,3,,25,0.985385
+loss,rigd_lejp_p1s100_mu04_p384_2,knee,4x,80,5,0.900000,23,0.980237,70,4,1.000000,24,0.982609
+loss,rigd_lejp_p1s100_mu04_p384_3,knee,4x,80,5,1.000000,23,0.956522,80,5,1.000000,23,0.956522
+loss,rigd_lejp_p1s100_mu07_p384_1,knee,4x,90,6,0.828571,22,0.986448,80,5,1.000000,23,0.987154
+loss,rigd_lejp_p1s100_mu07_p384_3,knee,4x,90,6,0.771429,22,0.739130,80,5,0.900000,23,0.522727
+loss,rigd_lejp_p1s100_mu09_p384_3,knee,4x,130,10,0.866667,18,0.995872,130,10,0.866667,18,0.995872
+loss,rigd_lejp_p1s100_mu097_nano_1,event-free LeJEPA,21x,110,8,1.000000,5,1.000000,110,8,1.000000,5,1.000000
+loss,rigd_lejp_p1s100_mu097_nano_2,event-free LeJEPA,21x,110,8,0.976190,5,1.000000,110,8,0.976190,5,1.000000
+loss,rigd_lejp_p1s100_mu097_nano_3,event-free LeJEPA,21x,110,8,0.976190,5,1.000000,110,8,0.976190,5,1.000000
+loss,rigd_lejp_p1s100_mu097_long_nano_1,event-free LeJEPA,21x,110,8,1.000000,20,0.942857,110,8,1.000000,20,0.942857
+loss,rigd_lejp_p1s100_mu097_p384_1,event-free LeJEPA,4x,90,6,0.657143,22,0.993224,70,4,-0.200000,24,0.535652
+loss,rigd_lejp_p1s100_mu097_p384_2,event-free LeJEPA,4x,90,6,1.000000,22,0.932242,70,4,1.000000,24,0.916522
+loss,rigd_lejp_p1s100_mu097_p384_3,event-free LeJEPA,4x,90,6,0.942857,22,0.979673,70,4,1.000000,24,0.983478
+loss,rigd_lejp_p1s100_mu097_p384_4,event-free LeJEPA,4x,90,6,0.657143,22,0.995483,70,4,0.800000,24,0.996522
+loss,rigb_lejp_p1s100_nano_5,event-free LeJEPA,21x,110,8,0.976190,20,0.978947,110,8,0.976190,20,0.978947
+loss,rigd_lejp_p1s100_mu04_nano_1,event-free LeJEPA,21x,110,8,1.000000,20,0.995489,110,8,1.000000,20,0.995489
+loss,rigd_lejp_p1s100_mu04_nano_2,event-free LeJEPA,21x,110,8,1.000000,20,0.989474,110,8,1.000000,20,0.989474
+loss,rigd_lejp_p1s100_mu07_nano_3,event-free LeJEPA,21x,110,8,1.000000,20,0.989474,110,8,1.000000,20,0.989474
+loss,rigd_lejp_p1s100_mu09_nano_1,event-free LeJEPA,21x,110,8,0.809524,20,0.987970,110,8,0.809524,20,0.987970
+loss,rigd_lejp_p1s100_mu09_nano_2,event-free LeJEPA,21x,110,8,1.000000,20,0.980451,110,8,1.000000,20,0.980451
+loss,rigd_lejp_p1s100_mu09_nano_3,event-free LeJEPA,21x,110,8,1.000000,20,0.986466,110,8,1.000000,20,0.986466
+loss,rigb_lejp_p1s100_nano_10,event-free LeJEPA,21x,110,8,1.000000,20,0.978947,110,8,1.000000,20,0.978947
+loss,rigb_lejp_p1s100_nano_12,event-free LeJEPA,21x,110,8,0.976190,20,0.998496,110,8,0.976190,20,0.998496
+loss,rigb_lejp_p1s100_p384_10,event-free LeJEPA,4x,90,6,1.000000,22,0.955957,70,4,1.000000,24,0.964348
+loss,rigd_lejp_p1s100_mu07_p384_2,event-free LeJEPA,4x,90,6,1.000000,22,0.994353,70,4,1.000000,24,0.989565
+loss,rigd_lejp_p1s100_mu09_p384_1,event-free LeJEPA,4x,90,6,0.828571,22,0.996612,70,4,0.400000,24,0.997391
+loss,rigd_lejp_p1s100_mu09_p384_2,event-free LeJEPA,4x,90,6,1.000000,22,0.995483,70,4,1.000000,24,0.936522
+loss,rigb_lejp_p1s100_tiny_1,event-free LeJEPA,21x,110,8,1.000000,20,0.975940,110,8,1.000000,20,0.975940
+loss,rigb_mae_p1s100_long_nano_1,MAE,21x,110,8,0.000000,20,0.067669,110,8,0.000000,20,0.067669
+loss,rigb_mae_p1s100_long_nano_2,MAE,21x,110,8,0.095238,20,0.022556,110,8,0.095238,20,0.022556
+loss,rigb_mae_p1s100_long_nano_3,MAE,21x,110,8,-0.238095,20,-0.186466,110,8,-0.238095,20,-0.186466
+loss,rigb_mae_p1s100_long_nano_4,MAE,21x,110,8,0.261905,20,0.186466,110,8,0.261905,20,0.186466
+loss,rigb_mae_p1s100_long_nano_5,MAE,21x,110,8,-0.261905,20,0.145865,110,8,-0.261905,20,0.145865
+loss,rigb_mae_p1s100_long_nano_6,MAE,21x,110,8,-0.261905,20,0.233083,110,8,-0.261905,20,0.233083
+loss,rigb_mae_p1s100_long_nano_7,MAE,21x,110,8,0.214286,20,-0.063158,110,8,0.214286,20,-0.063158
+loss,rigb_mae_p1s100_long_nano_8,MAE,21x,110,8,0.166667,20,-0.067669,110,8,0.166667,20,-0.067669
+loss,rigb_mae_p1s100_long_nano_9,MAE,21x,110,8,-0.095238,20,0.144361,110,8,-0.095238,20,0.144361
+loss,rigb_mae_p1s100_long_nano_10,MAE,21x,110,8,0.071429,20,-0.136842,110,8,0.071429,20,-0.136842
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_1,knee,21x,90,6,1.000000,7,1.000000,80,5,1.000000,8,1.000000
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_2,knee,21x,110,8,0.976190,5,1.000000,110,8,0.976190,5,1.000000
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_3,knee,21x,100,7,1.000000,6,1.000000,100,7,1.000000,6,1.000000
+"loss [all iterations, N-1]",rigb_lejp_p1s100_long_nano_1,knee,21x,160,13,0.950549,15,1.000000,150,12,0.979021,16,1.000000
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_4,knee,21x,80,5,0.200000,23,0.959486,60,3,,25,0.968462
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_6,knee,21x,70,4,0.800000,24,0.935652,60,3,,25,0.943077
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_7,knee,21x,170,14,0.995604,14,1.000000,160,13,0.994505,15,0.996429
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_8,knee,21x,110,8,1.000000,20,0.990977,110,8,1.000000,20,0.990977
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_9,knee,21x,120,9,0.950000,19,1.000000,120,9,0.950000,19,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu04_nano_3,knee,21x,130,10,0.357576,18,1.000000,100,7,1.000000,21,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu07_nano_1,knee,21x,140,11,0.972727,17,1.000000,140,11,0.972727,17,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu07_nano_2,knee,21x,120,9,1.000000,19,0.994737,120,9,1.000000,19,0.994737
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_11,knee,21x,90,6,1.000000,22,0.969509,90,6,1.000000,22,0.969509
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_1,knee,4x,50,2,,26,0.753846,50,2,,26,0.753846
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_2,knee,4x,140,11,0.736364,17,0.997549,130,10,0.987879,18,0.997936
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_3,knee,4x,90,6,0.942857,22,0.993224,70,4,1.000000,24,0.994783
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_4,knee,4x,140,11,0.990909,17,0.997549,140,11,0.990909,17,0.997549
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_5,knee,4x,60,3,,25,0.996154,60,3,,25,0.996154
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_6,knee,4x,70,4,0.800000,24,0.996522,70,4,0.800000,24,0.996522
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_7,knee,4x,80,5,0.900000,23,0.963439,60,3,,25,0.966923
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_8,knee,4x,90,6,0.942857,22,0.993224,50,2,,26,0.995897
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_9,knee,4x,120,9,0.950000,19,1.000000,120,9,0.950000,19,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu04_p384_1,knee,4x,80,5,0.900000,23,0.999012,60,3,,25,0.999231
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu04_p384_2,knee,4x,80,5,0.900000,23,0.996047,70,4,1.000000,24,0.996522
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu04_p384_3,knee,4x,80,5,1.000000,23,0.987154,80,5,1.000000,23,0.987154
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu07_p384_1,knee,4x,90,6,0.657143,22,0.998871,80,5,1.000000,23,0.998024
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu07_p384_3,knee,4x,90,6,0.885714,22,0.739130,80,5,0.900000,23,0.522727
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu09_p384_3,knee,4x,130,10,0.842424,18,0.997936,130,10,0.842424,18,0.997936
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_nano_1,event-free LeJEPA,21x,110,8,1.000000,5,1.000000,110,8,1.000000,5,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_nano_2,event-free LeJEPA,21x,110,8,1.000000,5,1.000000,110,8,1.000000,5,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_nano_3,event-free LeJEPA,21x,110,8,0.976190,5,1.000000,110,8,0.976190,5,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_long_nano_1,event-free LeJEPA,21x,110,8,1.000000,20,0.953383,110,8,1.000000,20,0.953383
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_p384_1,event-free LeJEPA,4x,90,6,0.657143,22,0.997741,70,4,-0.200000,24,0.559130
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_p384_2,event-free LeJEPA,4x,90,6,1.000000,22,0.940147,70,4,1.000000,24,0.913913
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_p384_3,event-free LeJEPA,4x,90,6,1.000000,22,0.998871,70,4,1.000000,24,0.999130
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu097_p384_4,event-free LeJEPA,4x,90,6,0.600000,22,1.000000,70,4,0.800000,24,0.999130
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_5,event-free LeJEPA,21x,110,8,1.000000,20,0.983459,110,8,1.000000,20,0.983459
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu04_nano_1,event-free LeJEPA,21x,110,8,1.000000,20,1.000000,110,8,1.000000,20,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu04_nano_2,event-free LeJEPA,21x,110,8,1.000000,20,1.000000,110,8,1.000000,20,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu07_nano_3,event-free LeJEPA,21x,110,8,1.000000,20,0.993985,110,8,1.000000,20,0.993985
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu09_nano_1,event-free LeJEPA,21x,110,8,0.928571,20,1.000000,110,8,0.928571,20,1.000000
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu09_nano_2,event-free LeJEPA,21x,110,8,1.000000,20,0.995489,110,8,1.000000,20,0.995489
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu09_nano_3,event-free LeJEPA,21x,110,8,1.000000,20,1.000000,110,8,1.000000,20,1.000000
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_10,event-free LeJEPA,21x,110,8,1.000000,20,0.984962,110,8,1.000000,20,0.984962
+"loss [all iterations, N-1]",rigb_lejp_p1s100_nano_12,event-free LeJEPA,21x,110,8,1.000000,20,1.000000,110,8,1.000000,20,1.000000
+"loss [all iterations, N-1]",rigb_lejp_p1s100_p384_10,event-free LeJEPA,4x,90,6,1.000000,22,0.967250,70,4,1.000000,24,0.974783
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu07_p384_2,event-free LeJEPA,4x,90,6,1.000000,22,0.995483,70,4,1.000000,24,0.990435
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu09_p384_1,event-free LeJEPA,4x,90,6,0.828571,22,0.998871,70,4,0.400000,24,0.999130
+"loss [all iterations, N-1]",rigd_lejp_p1s100_mu09_p384_2,event-free LeJEPA,4x,90,6,1.000000,22,0.996612,70,4,1.000000,24,0.926957
+"loss [all iterations, N-1]",rigb_lejp_p1s100_tiny_1,event-free LeJEPA,21x,110,8,0.976190,20,0.993985,110,8,0.976190,20,0.993985
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_1,MAE,21x,110,8,0.000000,20,0.067669,110,8,0.000000,20,0.067669
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_2,MAE,21x,110,8,0.095238,20,0.022556,110,8,0.095238,20,0.022556
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_3,MAE,21x,110,8,-0.238095,20,-0.186466,110,8,-0.238095,20,-0.186466
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_4,MAE,21x,110,8,0.261905,20,0.186466,110,8,0.261905,20,0.186466
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_5,MAE,21x,110,8,-0.261905,20,0.145865,110,8,-0.261905,20,0.145865
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_6,MAE,21x,110,8,-0.261905,20,0.233083,110,8,-0.261905,20,0.233083
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_7,MAE,21x,110,8,0.214286,20,-0.063158,110,8,0.214286,20,-0.063158
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_8,MAE,21x,110,8,0.166667,20,-0.067669,110,8,0.166667,20,-0.067669
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_9,MAE,21x,110,8,-0.095238,20,0.144361,110,8,-0.095238,20,0.144361
+"loss [all iterations, N-1]",rigb_mae_p1s100_long_nano_10,MAE,21x,110,8,0.071429,20,-0.136842,110,8,0.071429,20,-0.136842

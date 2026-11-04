@@ -1,0 +1,451 @@
+rule,series,offset,group,n,q25,median,q75
+onset,readability R2 average,-40,decline,25,0.933501,0.952332,0.958106
+e100,readability R2 average,-40,healthy,10,0.943737,0.945129,0.950286
+e50,readability R2 average,-40,healthy,10,0.910816,0.913923,0.91556
+e60,readability R2 average,-40,healthy,10,0.921747,0.924041,0.926766
+e70,readability R2 average,-40,healthy,10,0.932007,0.933829,0.936839
+e80,readability R2 average,-40,healthy,10,0.938053,0.9395,0.944202
+e90,readability R2 average,-40,healthy,10,0.942672,0.94351,0.951182
+e110,readability R2 average,-40,healthy,10,0.947293,0.947909,0.957355
+e120,readability R2 average,-40,healthy,10,0.945992,0.955649,0.958503
+e130,readability R2 average,-40,healthy,10,0.946824,0.9545,0.961787
+e140,readability R2 average,-40,healthy,10,0.947041,0.957399,0.962497
+e150,readability R2 average,-40,healthy,10,0.950568,0.957311,0.966783
+e160,readability R2 average,-40,healthy,10,0.951248,0.958603,0.964842
+sharpest,readability R2 average,-40,healthy,10,0.944099,0.952392,0.959623
+all_onsets,readability R2 average,-40,healthy,250,0.929762,0.944622,0.955948
+onset,readability R2 average,-30,decline,25,0.942796,0.951637,0.965413
+e100,readability R2 average,-30,healthy,10,0.947293,0.947909,0.957355
+e50,readability R2 average,-30,healthy,10,0.921747,0.924041,0.926766
+e60,readability R2 average,-30,healthy,10,0.932007,0.933829,0.936839
+e70,readability R2 average,-30,healthy,10,0.938053,0.9395,0.944202
+e80,readability R2 average,-30,healthy,10,0.942672,0.94351,0.951182
+e90,readability R2 average,-30,healthy,10,0.943737,0.945129,0.950286
+e110,readability R2 average,-30,healthy,10,0.945992,0.955649,0.958503
+e120,readability R2 average,-30,healthy,10,0.946824,0.9545,0.961787
+e130,readability R2 average,-30,healthy,10,0.947041,0.957399,0.962497
+e140,readability R2 average,-30,healthy,10,0.950568,0.957311,0.966783
+e150,readability R2 average,-30,healthy,10,0.951248,0.958603,0.964842
+e160,readability R2 average,-30,healthy,10,0.951683,0.962433,0.968184
+sharpest,readability R2 average,-30,healthy,10,0.946513,0.957856,0.960864
+all_onsets,readability R2 average,-30,healthy,250,0.938133,0.946755,0.958264
+onset,readability R2 average,-20,decline,25,0.948572,0.954865,0.970732
+e100,readability R2 average,-20,healthy,10,0.945992,0.955649,0.958503
+e50,readability R2 average,-20,healthy,10,0.932007,0.933829,0.936839
+e60,readability R2 average,-20,healthy,10,0.938053,0.9395,0.944202
+e70,readability R2 average,-20,healthy,10,0.942672,0.94351,0.951182
+e80,readability R2 average,-20,healthy,10,0.943737,0.945129,0.950286
+e90,readability R2 average,-20,healthy,10,0.947293,0.947909,0.957355
+e110,readability R2 average,-20,healthy,10,0.946824,0.9545,0.961787
+e120,readability R2 average,-20,healthy,10,0.947041,0.957399,0.962497
+e130,readability R2 average,-20,healthy,10,0.950568,0.957311,0.966783
+e140,readability R2 average,-20,healthy,10,0.951248,0.958603,0.964842
+e150,readability R2 average,-20,healthy,10,0.951683,0.962433,0.968184
+e160,readability R2 average,-20,healthy,10,0.950093,0.961605,0.964315
+sharpest,readability R2 average,-20,healthy,10,0.953267,0.961779,0.967421
+all_onsets,readability R2 average,-20,healthy,250,0.941981,0.948207,0.959801
+onset,readability R2 average,-10,decline,25,0.951407,0.965294,0.982181
+e100,readability R2 average,-10,healthy,10,0.946824,0.9545,0.961787
+e50,readability R2 average,-10,healthy,10,0.938053,0.9395,0.944202
+e60,readability R2 average,-10,healthy,10,0.942672,0.94351,0.951182
+e70,readability R2 average,-10,healthy,10,0.943737,0.945129,0.950286
+e80,readability R2 average,-10,healthy,10,0.947293,0.947909,0.957355
+e90,readability R2 average,-10,healthy,10,0.945992,0.955649,0.958503
+e110,readability R2 average,-10,healthy,10,0.947041,0.957399,0.962497
+e120,readability R2 average,-10,healthy,10,0.950568,0.957311,0.966783
+e130,readability R2 average,-10,healthy,10,0.951248,0.958603,0.964842
+e140,readability R2 average,-10,healthy,10,0.951683,0.962433,0.968184
+e150,readability R2 average,-10,healthy,10,0.950093,0.961605,0.964315
+e160,readability R2 average,-10,healthy,10,0.949606,0.962126,0.967759
+sharpest,readability R2 average,-10,healthy,10,0.957763,0.963568,0.969395
+all_onsets,readability R2 average,-10,healthy,250,0.945357,0.950961,0.962162
+onset,readability R2 average,0,decline,25,0.829725,0.851276,0.881422
+e100,readability R2 average,0,healthy,10,0.947041,0.957399,0.962497
+e50,readability R2 average,0,healthy,10,0.942672,0.94351,0.951182
+e60,readability R2 average,0,healthy,10,0.943737,0.945129,0.950286
+e70,readability R2 average,0,healthy,10,0.947293,0.947909,0.957355
+e80,readability R2 average,0,healthy,10,0.945992,0.955649,0.958503
+e90,readability R2 average,0,healthy,10,0.946824,0.9545,0.961787
+e110,readability R2 average,0,healthy,10,0.950568,0.957311,0.966783
+e120,readability R2 average,0,healthy,10,0.951248,0.958603,0.964842
+e130,readability R2 average,0,healthy,10,0.951683,0.962433,0.968184
+e140,readability R2 average,0,healthy,10,0.950093,0.961605,0.964315
+e150,readability R2 average,0,healthy,10,0.949606,0.962126,0.967759
+e160,readability R2 average,0,healthy,10,0.951029,0.959315,0.965308
+sharpest,readability R2 average,0,healthy,10,0.94574,0.953627,0.962308
+all_onsets,readability R2 average,0,healthy,250,0.947085,0.952927,0.962388
+onset,readability R2 average,10,decline,25,0.737956,0.778522,0.82182
+e100,readability R2 average,10,healthy,10,0.950568,0.957311,0.966783
+e50,readability R2 average,10,healthy,10,0.943737,0.945129,0.950286
+e60,readability R2 average,10,healthy,10,0.947293,0.947909,0.957355
+e70,readability R2 average,10,healthy,10,0.945992,0.955649,0.958503
+e80,readability R2 average,10,healthy,10,0.946824,0.9545,0.961787
+e90,readability R2 average,10,healthy,10,0.947041,0.957399,0.962497
+e110,readability R2 average,10,healthy,10,0.951248,0.958603,0.964842
+e120,readability R2 average,10,healthy,10,0.951683,0.962433,0.968184
+e130,readability R2 average,10,healthy,10,0.950093,0.961605,0.964315
+e140,readability R2 average,10,healthy,10,0.949606,0.962126,0.967759
+e150,readability R2 average,10,healthy,10,0.951029,0.959315,0.965308
+e160,readability R2 average,10,healthy,10,0.950015,0.960796,0.969159
+sharpest,readability R2 average,10,healthy,10,0.94889,0.959327,0.965772
+all_onsets,readability R2 average,10,healthy,250,0.947727,0.955649,0.964267
+onset,readability R2 average,20,decline,25,0.730497,0.762919,0.788054
+e100,readability R2 average,20,healthy,10,0.951248,0.958603,0.964842
+e50,readability R2 average,20,healthy,10,0.947293,0.947909,0.957355
+e60,readability R2 average,20,healthy,10,0.945992,0.955649,0.958503
+e70,readability R2 average,20,healthy,10,0.946824,0.9545,0.961787
+e80,readability R2 average,20,healthy,10,0.947041,0.957399,0.962497
+e90,readability R2 average,20,healthy,10,0.950568,0.957311,0.966783
+e110,readability R2 average,20,healthy,10,0.951683,0.962433,0.968184
+e120,readability R2 average,20,healthy,10,0.950093,0.961605,0.964315
+e130,readability R2 average,20,healthy,10,0.949606,0.962126,0.967759
+e140,readability R2 average,20,healthy,10,0.951029,0.959315,0.965308
+e150,readability R2 average,20,healthy,10,0.950015,0.960796,0.969159
+e160,readability R2 average,20,healthy,10,0.949986,0.961267,0.967973
+sharpest,readability R2 average,20,healthy,10,0.950695,0.95597,0.964478
+all_onsets,readability R2 average,20,healthy,250,0.948834,0.957362,0.9652
+onset,readability R2 average,30,decline,25,0.709641,0.762398,0.78612
+e100,readability R2 average,30,healthy,10,0.951683,0.962433,0.968184
+e50,readability R2 average,30,healthy,10,0.945992,0.955649,0.958503
+e60,readability R2 average,30,healthy,10,0.946824,0.9545,0.961787
+e70,readability R2 average,30,healthy,10,0.947041,0.957399,0.962497
+e80,readability R2 average,30,healthy,10,0.950568,0.957311,0.966783
+e90,readability R2 average,30,healthy,10,0.951248,0.958603,0.964842
+e110,readability R2 average,30,healthy,10,0.950093,0.961605,0.964315
+e120,readability R2 average,30,healthy,10,0.949606,0.962126,0.967759
+e130,readability R2 average,30,healthy,10,0.951029,0.959315,0.965308
+e140,readability R2 average,30,healthy,10,0.950015,0.960796,0.969159
+e150,readability R2 average,30,healthy,10,0.949986,0.961267,0.967973
+e160,readability R2 average,30,healthy,10,0.950833,0.960369,0.97095
+sharpest,readability R2 average,30,healthy,10,0.950274,0.959691,0.967471
+all_onsets,readability R2 average,30,healthy,250,0.949241,0.958264,0.965921
+onset,readability R2 average,40,decline,25,0.713064,0.741234,0.781318
+e100,readability R2 average,40,healthy,10,0.950093,0.961605,0.964315
+e50,readability R2 average,40,healthy,10,0.946824,0.9545,0.961787
+e60,readability R2 average,40,healthy,10,0.947041,0.957399,0.962497
+e70,readability R2 average,40,healthy,10,0.950568,0.957311,0.966783
+e80,readability R2 average,40,healthy,10,0.951248,0.958603,0.964842
+e90,readability R2 average,40,healthy,10,0.951683,0.962433,0.968184
+e110,readability R2 average,40,healthy,10,0.949606,0.962126,0.967759
+e120,readability R2 average,40,healthy,10,0.951029,0.959315,0.965308
+e130,readability R2 average,40,healthy,10,0.950015,0.960796,0.969159
+e140,readability R2 average,40,healthy,10,0.949986,0.961267,0.967973
+e150,readability R2 average,40,healthy,10,0.950833,0.960369,0.97095
+e160,readability R2 average,40,healthy,10,0.952727,0.959802,0.971784
+sharpest,readability R2 average,40,healthy,10,0.950082,0.961521,0.967791
+all_onsets,readability R2 average,40,healthy,250,0.949573,0.958264,0.966111
+onset,readability R2 average,50,decline,24,0.717063,0.743188,0.774739
+e100,readability R2 average,50,healthy,10,0.949606,0.962126,0.967759
+e50,readability R2 average,50,healthy,10,0.947041,0.957399,0.962497
+e60,readability R2 average,50,healthy,10,0.950568,0.957311,0.966783
+e70,readability R2 average,50,healthy,10,0.951248,0.958603,0.964842
+e80,readability R2 average,50,healthy,10,0.951683,0.962433,0.968184
+e90,readability R2 average,50,healthy,10,0.950093,0.961605,0.964315
+e110,readability R2 average,50,healthy,10,0.951029,0.959315,0.965308
+e120,readability R2 average,50,healthy,10,0.950015,0.960796,0.969159
+e130,readability R2 average,50,healthy,10,0.949986,0.961267,0.967973
+e140,readability R2 average,50,healthy,10,0.950833,0.960369,0.97095
+e150,readability R2 average,50,healthy,10,0.952727,0.959802,0.971784
+e160,readability R2 average,50,healthy,10,0.95308,0.959771,0.972042
+sharpest,readability R2 average,50,healthy,10,0.951619,0.961143,0.967519
+all_onsets,readability R2 average,50,healthy,250,0.950652,0.958615,0.968136
+onset,readability R2 average,60,decline,23,0.716879,0.740372,0.761051
+e100,readability R2 average,60,healthy,10,0.951029,0.959315,0.965308
+e50,readability R2 average,60,healthy,10,0.950568,0.957311,0.966783
+e60,readability R2 average,60,healthy,10,0.951248,0.958603,0.964842
+e70,readability R2 average,60,healthy,10,0.951683,0.962433,0.968184
+e80,readability R2 average,60,healthy,10,0.950093,0.961605,0.964315
+e90,readability R2 average,60,healthy,10,0.949606,0.962126,0.967759
+e110,readability R2 average,60,healthy,10,0.950015,0.960796,0.969159
+e120,readability R2 average,60,healthy,10,0.949986,0.961267,0.967973
+e130,readability R2 average,60,healthy,10,0.950833,0.960369,0.97095
+e140,readability R2 average,60,healthy,10,0.952727,0.959802,0.971784
+e150,readability R2 average,60,healthy,10,0.95308,0.959771,0.972042
+e160,readability R2 average,60,healthy,10,0.953717,0.960394,0.971307
+sharpest,readability R2 average,60,healthy,10,0.95019,0.959745,0.967604
+all_onsets,readability R2 average,60,healthy,250,0.950689,0.960286,0.968343
+onset,readability R2 average,70,decline,23,0.717586,0.740578,0.768741
+e100,readability R2 average,70,healthy,10,0.950015,0.960796,0.969159
+e50,readability R2 average,70,healthy,10,0.951248,0.958603,0.964842
+e60,readability R2 average,70,healthy,10,0.951683,0.962433,0.968184
+e70,readability R2 average,70,healthy,10,0.950093,0.961605,0.964315
+e80,readability R2 average,70,healthy,10,0.949606,0.962126,0.967759
+e90,readability R2 average,70,healthy,10,0.951029,0.959315,0.965308
+e110,readability R2 average,70,healthy,10,0.949986,0.961267,0.967973
+e120,readability R2 average,70,healthy,10,0.950833,0.960369,0.97095
+e130,readability R2 average,70,healthy,10,0.952727,0.959802,0.971784
+e140,readability R2 average,70,healthy,10,0.95308,0.959771,0.972042
+e150,readability R2 average,70,healthy,10,0.953717,0.960394,0.971307
+e160,readability R2 average,70,healthy,10,0.954551,0.962795,0.973368
+sharpest,readability R2 average,70,healthy,10,0.949678,0.959566,0.967352
+all_onsets,readability R2 average,70,healthy,250,0.950846,0.961218,0.969073
+onset,readability R2 average,80,decline,22,0.719646,0.741207,0.771661
+e100,readability R2 average,80,healthy,10,0.949986,0.961267,0.967973
+e50,readability R2 average,80,healthy,10,0.951683,0.962433,0.968184
+e60,readability R2 average,80,healthy,10,0.950093,0.961605,0.964315
+e70,readability R2 average,80,healthy,10,0.949606,0.962126,0.967759
+e80,readability R2 average,80,healthy,10,0.951029,0.959315,0.965308
+e90,readability R2 average,80,healthy,10,0.950015,0.960796,0.969159
+e110,readability R2 average,80,healthy,10,0.950833,0.960369,0.97095
+e120,readability R2 average,80,healthy,10,0.952727,0.959802,0.971784
+e130,readability R2 average,80,healthy,10,0.95308,0.959771,0.972042
+e140,readability R2 average,80,healthy,10,0.953717,0.960394,0.971307
+e150,readability R2 average,80,healthy,10,0.954551,0.962795,0.973368
+e160,readability R2 average,80,healthy,10,0.955344,0.964054,0.972923
+sharpest,readability R2 average,80,healthy,10,0.950593,0.96012,0.966668
+all_onsets,readability R2 average,80,healthy,250,0.950898,0.961495,0.969502
+onset,readability R2 average,90,decline,22,0.718357,0.741838,0.778665
+e100,readability R2 average,90,healthy,10,0.950833,0.960369,0.97095
+e50,readability R2 average,90,healthy,10,0.950093,0.961605,0.964315
+e60,readability R2 average,90,healthy,10,0.949606,0.962126,0.967759
+e70,readability R2 average,90,healthy,10,0.951029,0.959315,0.965308
+e80,readability R2 average,90,healthy,10,0.950015,0.960796,0.969159
+e90,readability R2 average,90,healthy,10,0.949986,0.961267,0.967973
+e110,readability R2 average,90,healthy,10,0.952727,0.959802,0.971784
+e120,readability R2 average,90,healthy,10,0.95308,0.959771,0.972042
+e130,readability R2 average,90,healthy,10,0.953717,0.960394,0.971307
+e140,readability R2 average,90,healthy,10,0.954551,0.962795,0.973368
+e150,readability R2 average,90,healthy,10,0.955344,0.964054,0.972923
+e160,readability R2 average,90,healthy,10,0.956594,0.963451,0.974885
+sharpest,readability R2 average,90,healthy,10,0.95236,0.96141,0.970306
+all_onsets,readability R2 average,90,healthy,250,0.950898,0.96149,0.970192
+onset,readability R2 average,100,decline,22,0.723787,0.743881,0.776622
+e100,readability R2 average,100,healthy,10,0.952727,0.959802,0.971784
+e50,readability R2 average,100,healthy,10,0.949606,0.962126,0.967759
+e60,readability R2 average,100,healthy,10,0.951029,0.959315,0.965308
+e70,readability R2 average,100,healthy,10,0.950015,0.960796,0.969159
+e80,readability R2 average,100,healthy,10,0.949986,0.961267,0.967973
+e90,readability R2 average,100,healthy,10,0.950833,0.960369,0.97095
+e110,readability R2 average,100,healthy,10,0.95308,0.959771,0.972042
+e120,readability R2 average,100,healthy,10,0.953717,0.960394,0.971307
+e130,readability R2 average,100,healthy,10,0.954551,0.962795,0.973368
+e140,readability R2 average,100,healthy,10,0.955344,0.964054,0.972923
+e150,readability R2 average,100,healthy,10,0.956594,0.963451,0.974885
+e160,readability R2 average,100,healthy,10,0.956253,0.96433,0.974866
+sharpest,readability R2 average,100,healthy,10,0.951955,0.962521,0.969481
+all_onsets,readability R2 average,100,healthy,250,0.951334,0.96149,0.970333
+onset,kappa uncentred,-40,decline,25,71374.2,111227,253379
+e100,kappa uncentred,-40,healthy,10,110508,152216,1.06126e+06
+e50,kappa uncentred,-40,healthy,10,22968.5,24646,34883.1
+e60,kappa uncentred,-40,healthy,10,46824.1,50030.1,54012
+e70,kappa uncentred,-40,healthy,10,85139.8,94924.3,106266
+e80,kappa uncentred,-40,healthy,10,113618,120833,131660
+e90,kappa uncentred,-40,healthy,10,123870,147218,277408
+e110,kappa uncentred,-40,healthy,10,155615,289488,1.61429e+06
+e120,kappa uncentred,-40,healthy,10,203404,716798,1.71847e+06
+e130,kappa uncentred,-40,healthy,10,611684,930241,2.31862e+06
+e140,kappa uncentred,-40,healthy,10,954033,1.72997e+06,2.45037e+06
+e150,kappa uncentred,-40,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e160,kappa uncentred,-40,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+sharpest,kappa uncentred,-40,healthy,10,255433,834724,1.90276e+06
+all_onsets,kappa uncentred,-40,healthy,250,81908.1,138684,1.10358e+06
+onset,kappa uncentred,-30,decline,25,96868.8,165110,460424
+e100,kappa uncentred,-30,healthy,10,155615,289488,1.61429e+06
+e50,kappa uncentred,-30,healthy,10,46824.1,50030.1,54012
+e60,kappa uncentred,-30,healthy,10,85139.8,94924.3,106266
+e70,kappa uncentred,-30,healthy,10,113618,120833,131660
+e80,kappa uncentred,-30,healthy,10,123870,147218,277408
+e90,kappa uncentred,-30,healthy,10,110508,152216,1.06126e+06
+e110,kappa uncentred,-30,healthy,10,203404,716798,1.71847e+06
+e120,kappa uncentred,-30,healthy,10,611684,930241,2.31862e+06
+e130,kappa uncentred,-30,healthy,10,954033,1.72997e+06,2.45037e+06
+e140,kappa uncentred,-30,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e150,kappa uncentred,-30,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e160,kappa uncentred,-30,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+sharpest,kappa uncentred,-30,healthy,10,785803,1.03729e+06,3.93831e+06
+all_onsets,kappa uncentred,-30,healthy,250,101375,173162,1.61795e+06
+onset,kappa uncentred,-20,decline,25,117008,192787,625478
+e100,kappa uncentred,-20,healthy,10,203404,716798,1.71847e+06
+e50,kappa uncentred,-20,healthy,10,85139.8,94924.3,106266
+e60,kappa uncentred,-20,healthy,10,113618,120833,131660
+e70,kappa uncentred,-20,healthy,10,123870,147218,277408
+e80,kappa uncentred,-20,healthy,10,110508,152216,1.06126e+06
+e90,kappa uncentred,-20,healthy,10,155615,289488,1.61429e+06
+e110,kappa uncentred,-20,healthy,10,611684,930241,2.31862e+06
+e120,kappa uncentred,-20,healthy,10,954033,1.72997e+06,2.45037e+06
+e130,kappa uncentred,-20,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e140,kappa uncentred,-20,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e150,kappa uncentred,-20,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e160,kappa uncentred,-20,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+sharpest,kappa uncentred,-20,healthy,10,1.21517e+06,2.35661e+06,3.34934e+06
+all_onsets,kappa uncentred,-20,healthy,250,119638,527561,2.12842e+06
+onset,kappa uncentred,-10,decline,25,97830.8,308259,1.34489e+06
+e100,kappa uncentred,-10,healthy,10,611684,930241,2.31862e+06
+e50,kappa uncentred,-10,healthy,10,113618,120833,131660
+e60,kappa uncentred,-10,healthy,10,123870,147218,277408
+e70,kappa uncentred,-10,healthy,10,110508,152216,1.06126e+06
+e80,kappa uncentred,-10,healthy,10,155615,289488,1.61429e+06
+e90,kappa uncentred,-10,healthy,10,203404,716798,1.71847e+06
+e110,kappa uncentred,-10,healthy,10,954033,1.72997e+06,2.45037e+06
+e120,kappa uncentred,-10,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e130,kappa uncentred,-10,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e140,kappa uncentred,-10,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e150,kappa uncentred,-10,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e160,kappa uncentred,-10,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+sharpest,kappa uncentred,-10,healthy,10,811270,1.24663e+06,2.54675e+06
+all_onsets,kappa uncentred,-10,healthy,250,143586,862911,2.36762e+06
+onset,kappa uncentred,0,decline,25,391107,1.04733e+06,1.98451e+06
+e100,kappa uncentred,0,healthy,10,954033,1.72997e+06,2.45037e+06
+e50,kappa uncentred,0,healthy,10,123870,147218,277408
+e60,kappa uncentred,0,healthy,10,110508,152216,1.06126e+06
+e70,kappa uncentred,0,healthy,10,155615,289488,1.61429e+06
+e80,kappa uncentred,0,healthy,10,203404,716798,1.71847e+06
+e90,kappa uncentred,0,healthy,10,611684,930241,2.31862e+06
+e110,kappa uncentred,0,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e120,kappa uncentred,0,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e130,kappa uncentred,0,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e140,kappa uncentred,0,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e150,kappa uncentred,0,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e160,kappa uncentred,0,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+sharpest,kappa uncentred,0,healthy,10,1.35293e+06,2.05698e+06,2.29578e+06
+all_onsets,kappa uncentred,0,healthy,250,165108,1.38406e+06,2.57908e+06
+onset,kappa uncentred,10,decline,25,324401,1.41207e+06,5.04899e+06
+e100,kappa uncentred,10,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e50,kappa uncentred,10,healthy,10,110508,152216,1.06126e+06
+e60,kappa uncentred,10,healthy,10,155615,289488,1.61429e+06
+e70,kappa uncentred,10,healthy,10,203404,716798,1.71847e+06
+e80,kappa uncentred,10,healthy,10,611684,930241,2.31862e+06
+e90,kappa uncentred,10,healthy,10,954033,1.72997e+06,2.45037e+06
+e110,kappa uncentred,10,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e120,kappa uncentred,10,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e130,kappa uncentred,10,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e140,kappa uncentred,10,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e150,kappa uncentred,10,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e160,kappa uncentred,10,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+sharpest,kappa uncentred,10,healthy,10,1.70468e+06,2.23429e+06,3.14568e+06
+all_onsets,kappa uncentred,10,healthy,250,381700,1.82836e+06,3.00029e+06
+onset,kappa uncentred,20,decline,25,435087,1.38399e+06,4.82799e+06
+e100,kappa uncentred,20,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e50,kappa uncentred,20,healthy,10,155615,289488,1.61429e+06
+e60,kappa uncentred,20,healthy,10,203404,716798,1.71847e+06
+e70,kappa uncentred,20,healthy,10,611684,930241,2.31862e+06
+e80,kappa uncentred,20,healthy,10,954033,1.72997e+06,2.45037e+06
+e90,kappa uncentred,20,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e110,kappa uncentred,20,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e120,kappa uncentred,20,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e130,kappa uncentred,20,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e140,kappa uncentred,20,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e150,kappa uncentred,20,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e160,kappa uncentred,20,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+sharpest,kappa uncentred,20,healthy,10,1.29144e+06,2.03192e+06,2.69651e+06
+all_onsets,kappa uncentred,20,healthy,250,785803,1.95293e+06,3.09232e+06
+onset,kappa uncentred,30,decline,25,331104,1.65843e+06,5.62614e+06
+e100,kappa uncentred,30,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e50,kappa uncentred,30,healthy,10,203404,716798,1.71847e+06
+e60,kappa uncentred,30,healthy,10,611684,930241,2.31862e+06
+e70,kappa uncentred,30,healthy,10,954033,1.72997e+06,2.45037e+06
+e80,kappa uncentred,30,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e90,kappa uncentred,30,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e110,kappa uncentred,30,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e120,kappa uncentred,30,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e130,kappa uncentred,30,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e140,kappa uncentred,30,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e150,kappa uncentred,30,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e160,kappa uncentred,30,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+sharpest,kappa uncentred,30,healthy,10,1.48253e+06,1.84881e+06,2.79666e+06
+all_onsets,kappa uncentred,30,healthy,250,991822,2.18711e+06,3.37487e+06
+onset,kappa uncentred,40,decline,25,270664,2.10057e+06,5.52678e+06
+e100,kappa uncentred,40,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e50,kappa uncentred,40,healthy,10,611684,930241,2.31862e+06
+e60,kappa uncentred,40,healthy,10,954033,1.72997e+06,2.45037e+06
+e70,kappa uncentred,40,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e80,kappa uncentred,40,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e90,kappa uncentred,40,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e110,kappa uncentred,40,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e120,kappa uncentred,40,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e130,kappa uncentred,40,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e140,kappa uncentred,40,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e150,kappa uncentred,40,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e160,kappa uncentred,40,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+sharpest,kappa uncentred,40,healthy,10,2.40608e+06,3.69294e+06,5.20562e+06
+all_onsets,kappa uncentred,40,healthy,250,1.15116e+06,2.3399e+06,3.59747e+06
+onset,kappa uncentred,50,decline,24,279688,2.3585e+06,4.49984e+06
+e100,kappa uncentred,50,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e50,kappa uncentred,50,healthy,10,954033,1.72997e+06,2.45037e+06
+e60,kappa uncentred,50,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e70,kappa uncentred,50,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e80,kappa uncentred,50,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e90,kappa uncentred,50,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e110,kappa uncentred,50,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e120,kappa uncentred,50,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e130,kappa uncentred,50,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e140,kappa uncentred,50,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e150,kappa uncentred,50,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+e160,kappa uncentred,50,healthy,10,2.04332e+06,3.84119e+06,4.63131e+06
+sharpest,kappa uncentred,50,healthy,10,1.76469e+06,2.75905e+06,4.8152e+06
+all_onsets,kappa uncentred,50,healthy,250,1.38128e+06,2.5174e+06,3.7579e+06
+onset,kappa uncentred,60,decline,23,444261,4.08462e+06,5.89307e+06
+e100,kappa uncentred,60,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e50,kappa uncentred,60,healthy,10,1.15043e+06,1.93305e+06,2.63571e+06
+e60,kappa uncentred,60,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e70,kappa uncentred,60,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e80,kappa uncentred,60,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e90,kappa uncentred,60,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e110,kappa uncentred,60,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e120,kappa uncentred,60,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e130,kappa uncentred,60,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e140,kappa uncentred,60,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+e150,kappa uncentred,60,healthy,10,2.04332e+06,3.84119e+06,4.63131e+06
+e160,kappa uncentred,60,healthy,10,1.64242e+06,2.46002e+06,3.61682e+06
+sharpest,kappa uncentred,60,healthy,10,3.34503e+06,4.57809e+06,5.08633e+06
+all_onsets,kappa uncentred,60,healthy,250,1.5305e+06,2.57908e+06,4.23837e+06
+onset,kappa uncentred,70,decline,23,621071,3.02602e+06,4.46677e+06
+e100,kappa uncentred,70,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e50,kappa uncentred,70,healthy,10,1.6738e+06,2.28223e+06,4.16391e+06
+e60,kappa uncentred,70,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e70,kappa uncentred,70,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e80,kappa uncentred,70,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e90,kappa uncentred,70,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e110,kappa uncentred,70,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e120,kappa uncentred,70,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e130,kappa uncentred,70,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+e140,kappa uncentred,70,healthy,10,2.04332e+06,3.84119e+06,4.63131e+06
+e150,kappa uncentred,70,healthy,10,1.64242e+06,2.46002e+06,3.61682e+06
+e160,kappa uncentred,70,healthy,10,1.97749e+06,4.79535e+06,5.53625e+06
+sharpest,kappa uncentred,70,healthy,10,1.7465e+06,3.22576e+06,5.52805e+06
+all_onsets,kappa uncentred,70,healthy,250,1.60429e+06,2.69642e+06,4.2334e+06
+onset,kappa uncentred,80,decline,22,1.44633e+06,5.02864e+06,5.82884e+06
+e100,kappa uncentred,80,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e50,kappa uncentred,80,healthy,10,2.20046e+06,2.82232e+06,3.51333e+06
+e60,kappa uncentred,80,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e70,kappa uncentred,80,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e80,kappa uncentred,80,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e90,kappa uncentred,80,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e110,kappa uncentred,80,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e120,kappa uncentred,80,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+e130,kappa uncentred,80,healthy,10,2.04332e+06,3.84119e+06,4.63131e+06
+e140,kappa uncentred,80,healthy,10,1.64242e+06,2.46002e+06,3.61682e+06
+e150,kappa uncentred,80,healthy,10,1.97749e+06,4.79535e+06,5.53625e+06
+e160,kappa uncentred,80,healthy,10,1.62597e+06,2.29126e+06,3.47446e+06
+sharpest,kappa uncentred,80,healthy,10,1.48809e+06,2.20249e+06,3.17104e+06
+all_onsets,kappa uncentred,80,healthy,250,1.52465e+06,2.69642e+06,4.25689e+06
+onset,kappa uncentred,90,decline,22,1.45291e+06,4.50829e+06,5.8194e+06
+e100,kappa uncentred,90,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e50,kappa uncentred,90,healthy,10,1.96008e+06,2.40096e+06,2.80313e+06
+e60,kappa uncentred,90,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e70,kappa uncentred,90,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e80,kappa uncentred,90,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e90,kappa uncentred,90,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e110,kappa uncentred,90,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+e120,kappa uncentred,90,healthy,10,2.04332e+06,3.84119e+06,4.63131e+06
+e130,kappa uncentred,90,healthy,10,1.64242e+06,2.46002e+06,3.61682e+06
+e140,kappa uncentred,90,healthy,10,1.97749e+06,4.79535e+06,5.53625e+06
+e150,kappa uncentred,90,healthy,10,1.62597e+06,2.29126e+06,3.47446e+06
+e160,kappa uncentred,90,healthy,10,1.23045e+06,2.38353e+06,4.95205e+06
+sharpest,kappa uncentred,90,healthy,10,2.14524e+06,4.11803e+06,4.91055e+06
+all_onsets,kappa uncentred,90,healthy,250,1.53153e+06,3.00029e+06,4.48544e+06
+onset,kappa uncentred,100,decline,22,1.05298e+06,4.39136e+06,6.05211e+06
+e100,kappa uncentred,100,healthy,10,2.00896e+06,3.89364e+06,4.40808e+06
+e50,kappa uncentred,100,healthy,10,1.58086e+06,3.0463e+06,3.36071e+06
+e60,kappa uncentred,100,healthy,10,1.17471e+06,2.31424e+06,4.93756e+06
+e70,kappa uncentred,100,healthy,10,3.55938e+06,3.92e+06,4.57993e+06
+e80,kappa uncentred,100,healthy,10,1.48253e+06,3.22835e+06,4.59975e+06
+e90,kappa uncentred,100,healthy,10,1.3668e+06,2.11371e+06,2.62711e+06
+e110,kappa uncentred,100,healthy,10,2.04332e+06,3.84119e+06,4.63131e+06
+e120,kappa uncentred,100,healthy,10,1.64242e+06,2.46002e+06,3.61682e+06
+e130,kappa uncentred,100,healthy,10,1.97749e+06,4.79535e+06,5.53625e+06
+e140,kappa uncentred,100,healthy,10,1.62597e+06,2.29126e+06,3.47446e+06
+e150,kappa uncentred,100,healthy,10,1.23045e+06,2.38353e+06,4.95205e+06
+e160,kappa uncentred,100,healthy,10,1.10055e+06,2.21403e+06,3.64974e+06
+sharpest,kappa uncentred,100,healthy,10,1.63381e+06,2.58155e+06,4.15981e+06
+all_onsets,kappa uncentred,100,healthy,250,1.47732e+06,3.07135e+06,4.52263e+06

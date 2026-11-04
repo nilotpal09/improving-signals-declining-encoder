@@ -1,0 +1,71 @@
+# Training configuration of run rigb_mae_p1s100_long_nano_1.
+data:
+  batch_size: 128
+  calo_cfg:
+    N_cells_x: 64
+    N_cells_y: 64
+    N_cells_z: 4
+    N_spots_per_layer: 100
+    Z: 82
+    cell_e_threshold: 0.0
+    depth: 20.0
+    height: 10.0
+    lejepa_latents:
+      dist: gaussian
+      rho: 1.0
+      views: 1
+    width: 10.0
+  generator_cfg:
+    E_range:
+    - 20000.0
+    - 40000.0
+    N_range:
+    - 1
+    - 1
+    kind: gun
+    pad_value: .nan
+    x_range:
+    - 0.0
+    - 0.0
+    y_range:
+    - 0.0
+    - 0.0
+  norm:
+    mode: log1p_scale
+    scale: 5500.0
+  num_events: 64000
+  num_workers: 0
+  persistent_workers: true
+  pin_mem: true
+  sample_target: false
+logging:
+  run_name: rigb_mae_p1s100_long_nano_1
+  folder: runs
+  write_tag: mae
+mask:
+  mask_ratio: 0.75
+  patch_size: 4
+meta:
+  checkpoint_schedule:
+  - - 20
+    - 2
+  - - 300
+    - 10
+  decoder_depth: 4
+  decoder_embed_dim: 48
+  decoder_num_heads: 3
+  load_checkpoint: false
+  model_name: vit_nano
+  normalize_pixels: true
+  read_checkpoint: null
+  seed: 1
+  use_bfloat16: true
+optimization:
+  epochs: 300
+  final_lr: 1.0e-06
+  final_weight_decay: 0.4
+  ipe_scale: 1.0
+  lr: 0.001
+  start_lr: 0.0002
+  warmup: 40
+  weight_decay: 0.04
